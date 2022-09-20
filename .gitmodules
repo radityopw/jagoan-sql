@@ -1,0 +1,3 @@
+[submodule "fdb"]
+	path = fdb
+	url = https://github.com/radityopw/fdb.git
